@@ -1,10 +1,12 @@
 
 import './App.css';
+import Haupt from './components/haupt';
+
 
 function App() {
   return (
     <div className="App">
-      Hi
+      <Haupt></Haupt>
     </div>
   );
 }
